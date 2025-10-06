@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## Math
 |  |
