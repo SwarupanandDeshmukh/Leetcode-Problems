@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
