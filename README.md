@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
