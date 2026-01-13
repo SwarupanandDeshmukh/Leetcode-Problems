@@ -19,7 +19,6 @@ public:
                 res [i][j] = original[k];
                 k++;
             }
-            
         }
 
         return res;
