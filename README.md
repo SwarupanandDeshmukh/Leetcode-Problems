@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -132,5 +134,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
