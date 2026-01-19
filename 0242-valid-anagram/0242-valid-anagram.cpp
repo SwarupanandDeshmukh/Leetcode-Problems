@@ -16,19 +16,44 @@ public:
         //     return false;
         // }
 
-        map<char,int> m1;
-        map<char,int> m2;
+    //     map<char,int> m1;
+    //     map<char,int> m2;
 
-        for(char ch : s)
-        {
-            m1[ch] = m1[ch] + 1;
-        }
+    //     for(char ch : s)
+    //     {
+    //         m1[ch] = m1[ch] + 1;
+    //     }
         
-        for(char ch : t)
-        {
-            m2[ch]++;
-        }
+    //     for(char ch : t)
+    //     {
+    //         m2[ch]++;
+    //     }
 
-       return m1 == m2;
+    //    return m1 == m2;
+
+
+    vector<int> count(26,0);
+    for(int i = 0; i<s.length(); i++)
+    {
+        count[s[i] - 'a']++;
+    }
+
+     for(int i = 0; i<t.length(); i++)
+    {
+        count[t[i] - 'a']--;
+    }
+
+    for(int v : count)
+    {
+        if(v !=0)
+        {
+            return false;
+        }
+    }
+
+    return true;
+
+
+
     }
 };
