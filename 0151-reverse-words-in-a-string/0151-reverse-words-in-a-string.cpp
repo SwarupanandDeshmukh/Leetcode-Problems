@@ -24,47 +24,57 @@ public:
             r--;
         }
         
-        word = "";
-        vector<string> v;
+        // word = "";
+        // vector<string> v;
+        // for(int i = 0; i<s.length(); i++)
+        // {
+        //     if(s[i] == ' ')
+        //     {
+        //         v.push_back(word);
+        //         word = "";
+        //         continue;
+        //     }
+        //     word = word + s[i];  
+        // }
+
+        // v.push_back(word);
+        // s = "";
+        // for(int i = 0; i<v.size(); i++)
+        // {
+        //     string ns = v[i];
+        //     int l = 0;
+        //     int r = ns.length() - 1;
+        //     while(l<r)
+        //     {
+        //         char t = ns[l];
+        //         ns[l] = ns[r];
+        //         ns[r] = t;
+        //         l++;
+        //         r--;
+        //     }
+        //     s = s + ns + " ";
+        // }
+
+        // if(!s.empty())
+        //     s.pop_back();
+
+        // return s;
+
+        string result = "";
         for(int i = 0; i<s.length(); i++)
         {
-            if(s[i] == ' ')
+            string word = "";
+            while(i<s.length() && s[i] != ' ')
             {
-                v.push_back(word);
-                word = "";
-                continue;
+                word = word + s[i];
+                i++;
             }
-            word = word + s[i];  
-        }
 
-        v.push_back(word);
-        s = "";
-        for(int i = 0; i<v.size(); i++)
-        {
-            string ns = v[i];
-            int l = 0;
-            int r = ns.length() - 1;
-            while(l<r)
-            {
-                char t = ns[l];
-                ns[l] = ns[r];
-                ns[r] = t;
-                l++;
-                r--;
-            }
-            s = s + ns + " ";
-        }
+            reverse(word.begin(), word.end());
+            if(word.length() > 0)
+                result += " " + word;
+        }  
 
-        if(!s.empty())
-            s.pop_back();
-
-        return s;
-
-
-
-        
-
-
-        
+        return result.substr(1);
     }
 };
