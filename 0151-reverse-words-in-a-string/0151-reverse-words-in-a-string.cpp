@@ -1,15 +1,6 @@
 class Solution {
 public:
     string reverseWords(string s) {
-
-        string word = "";
-        stringstream ss(s);
-        s = "";
-        while(ss >> word)
-            s = s + word + " ";
-        
-        if(!s.empty())
-            s.pop_back();
         
         reverse(s.begin(), s.end());
         string result = "";
