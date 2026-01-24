@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -112,6 +115,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
