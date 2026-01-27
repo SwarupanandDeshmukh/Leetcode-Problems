@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
