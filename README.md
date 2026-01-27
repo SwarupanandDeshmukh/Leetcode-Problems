@@ -99,6 +99,7 @@
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
@@ -184,4 +185,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
