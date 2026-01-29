@@ -78,6 +78,7 @@
 | [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -195,6 +197,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
