@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -67,6 +68,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
