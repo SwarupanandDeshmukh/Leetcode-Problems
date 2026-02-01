@@ -59,6 +59,7 @@
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0326-power-of-three](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
