@@ -53,6 +53,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -127,6 +129,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
