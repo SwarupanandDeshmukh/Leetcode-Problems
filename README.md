@@ -130,6 +130,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -243,4 +245,5 @@
 | [0046-permutations](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
