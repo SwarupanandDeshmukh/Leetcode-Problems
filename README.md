@@ -38,6 +38,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -164,6 +165,7 @@
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -189,6 +191,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +257,24 @@
 | [0078-subsets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
