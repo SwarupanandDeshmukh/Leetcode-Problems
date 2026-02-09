@@ -277,4 +277,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
