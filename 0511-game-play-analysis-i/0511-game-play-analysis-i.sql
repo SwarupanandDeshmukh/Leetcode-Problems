@@ -1,3 +1,3 @@
 # Write your MySQL query statement below
 
-select player_id, MIN(event_date) AS 'first_login' from Activity group by player_id HAVING MIN(event_date);
+select player_id, MIN(event_date) AS 'first_login' from Activity group by player_id ORDER BY event_date ASC;
