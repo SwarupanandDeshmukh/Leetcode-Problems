@@ -84,6 +84,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -291,4 +292,8 @@
 | [0197-rising-temperature](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0577-employee-bonus) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
