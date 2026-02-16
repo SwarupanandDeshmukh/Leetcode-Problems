@@ -10,66 +10,29 @@
  */
 class Solution {
 public:
-    void insert(ListNode *&res, int v)
-    {
-        ListNode * n = new ListNode(v);
-        if(res == NULL)
-        {
-            res = n;
-            res->next = NULL;
-            return;
-        }
-
-        ListNode *t = res;
-        while(t->next != NULL)
-        {
-            t = t->next;
-        }
-
-        t->next = n;
-        t = n;
-    }
+    
 
     ListNode* oddEvenList(ListNode* head) {
         
         if(head == NULL)
             return {};
-        
-        ListNode *temp = head;
-        ListNode *res = NULL;
-        int evencnt = 0;
-        int oddcnt = 1;
+            
+        ListNode *odd = head;
+        ListNode *even = head->next;
+        ListNode *last = even;
 
-        while(temp != NULL && temp->next != NULL)
+        while(even != NULL && even->next != NULL)
         {
-            if(evencnt % 2 == 0)
-            {
-                insert(res, temp->val);
-                evencnt = evencnt + 2;
-                temp = temp->next->next;
-            }
+            odd->next = even->next;
+            odd = odd->next;
+
+            even->next = odd->next;
+            even = even->next;
         }
 
-        if(temp != NULL)
-            insert(res, temp->val);
+        odd->next = last;
 
-        
-        temp = head->next;
-         while(temp != NULL && (temp->next == NULL ? temp->next != NULL : temp->next->next != NULL))
-        {
-            if(oddcnt % 2 != 0)
-            {
-                insert(res, temp->val);
-                oddcnt = oddcnt + 2;
-                temp = temp->next->next;
-            }
-        }
+        return head;
 
-
-        if(temp != NULL)
-            insert(res, temp->val);
-
-        return res;
-
-    }   
+       }   
 };
