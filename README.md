@@ -72,6 +72,7 @@
 | [0326-power-of-three](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
@@ -330,6 +331,7 @@
 | [0328-odd-even-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
