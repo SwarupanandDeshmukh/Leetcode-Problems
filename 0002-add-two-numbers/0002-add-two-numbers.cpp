@@ -31,10 +31,14 @@ public:
 
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         
-        ListNode *res = NULL;
+         ListNode *res = NULL;
+
+
+
         ListNode *temp1 = l1;
         ListNode *temp2 = l2;
        
+
         int carry = 0;
         int sum = 0;
         while(temp1 != NULL && temp2 != NULL)
