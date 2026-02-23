@@ -26,7 +26,7 @@ public:
         {
             if(key == *it)
             {
-                table[idx].remove(key);
+                table[idx].erase(it);
                 return;
             }
             it++;
