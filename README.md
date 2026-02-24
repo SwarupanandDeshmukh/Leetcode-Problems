@@ -224,6 +224,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -252,6 +253,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -371,5 +373,6 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
