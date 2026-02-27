@@ -233,6 +233,7 @@
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
@@ -269,6 +271,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -387,4 +390,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
