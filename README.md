@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -231,6 +232,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Design
