@@ -6,14 +6,14 @@ public:
 
         for(string s: operations)
         {
-            if(s != "C" && s!= "D" && s != "+")
+            if(s != "C" && s!= "D" && s != "+") // is a digit
             {
                 int val = stoi(s);
                 st.push(val);
             }
-            else if(s == "C")
+            else if(s == "C") // is a C
                 st.pop();
-            else if(s == "D")
+            else if(s == "D") //is a D
             {
                 int res = st.top() * 2;
                 st.push(res);
