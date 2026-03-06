@@ -6,6 +6,8 @@ public:
         vector<int> res(n);
         stack<int> s;
 
+        // think of it like traversing the array twice.
+
         for(int i = 2*n - 1; i>=0; i--)
         {
             while(!s.empty() && nums[s.top()] <= nums[i%n])
