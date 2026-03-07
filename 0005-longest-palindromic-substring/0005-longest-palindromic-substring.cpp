@@ -4,7 +4,8 @@ public:
         int n = s.length();
         int maxLen = 1;
         int idx = 0;
-        
+
+        // at first look for even and then move towards odd lengh        
 
         if(n == 1)
             return s;
