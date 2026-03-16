@@ -159,6 +159,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0686-repeated-string-match) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -235,6 +237,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
