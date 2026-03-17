@@ -375,6 +375,7 @@
 | [1179-reformat-department-table](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Linked List
 |  |
