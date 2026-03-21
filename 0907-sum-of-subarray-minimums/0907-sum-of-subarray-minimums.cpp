@@ -8,6 +8,7 @@ public:
         vector<int> left(n, -1);
         vector<int> right(n, -1);
 
+        // smallest left element
         for(int i = 0; i<n; i++)
         {
             while(!s1.empty() && arr[s1.top()] > arr[i])
@@ -19,6 +20,7 @@ public:
             s1.push(i);
         }
 
+        //smallest right element
         for(int i = n-1; i>=0; i--)
         {
             while(!s2.empty() && arr[s2.top()] >= arr[i])
@@ -30,6 +32,7 @@ public:
             s2.push(i);
         }
 
+        // find the sum of left count and right count by multiplying the element
         int sum = 0;
         for(int i = 0; i<n; i++)
         {
