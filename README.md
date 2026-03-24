@@ -291,6 +291,7 @@
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -416,8 +417,10 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
