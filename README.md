@@ -52,6 +52,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -251,6 +252,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -279,6 +281,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Design
@@ -418,6 +421,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
