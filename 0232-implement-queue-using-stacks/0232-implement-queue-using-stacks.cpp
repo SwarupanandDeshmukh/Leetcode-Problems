@@ -6,7 +6,7 @@ public:
     }
     
     void push(int x) {
-        v.push_back(x);
+        v.push_back(x); //push element in the vector
     }
     
     int pop() {
