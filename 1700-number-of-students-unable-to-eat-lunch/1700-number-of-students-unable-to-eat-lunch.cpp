@@ -2,6 +2,8 @@ class Solution {
 public:
     int countStudents(vector<int>& students, vector<int>& sandwiches) {
         
+
+        
         int count0 = 0;
         int count1 = 0;
         
@@ -13,6 +15,7 @@ public:
                 count1++;
         }
 
+        // if any of the count is 0 break
         for(int i : sandwiches)
         {
             if(i == 0)
