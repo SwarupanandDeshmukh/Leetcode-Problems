@@ -1,2 +1,2 @@
 select score,
-    DENSE_RANK() OVER (order by score DESC) as 'rank' from Scores;
+DENSE_RANK() OVER (order by score desc) as 'rank' from Scores;
