@@ -42,6 +42,7 @@
 | [0503-next-greater-element-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
@@ -299,6 +300,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
@@ -417,6 +419,7 @@
 | [0328-odd-even-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -438,6 +441,7 @@
 | [0239-sliding-window-maximum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
