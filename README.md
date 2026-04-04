@@ -50,6 +50,7 @@
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -195,6 +196,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0239-sliding-window-maximum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,6 +358,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -457,6 +462,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0641-design-circular-deque) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -471,4 +477,5 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
