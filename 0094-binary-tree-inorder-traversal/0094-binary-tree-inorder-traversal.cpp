@@ -13,6 +13,7 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         
+        //inorder traversal using stack
         stack<TreeNode* > s;
         vector<int> res;
         TreeNode * temp = root;
