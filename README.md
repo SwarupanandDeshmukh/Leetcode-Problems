@@ -174,6 +174,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -360,6 +361,7 @@
 | [0078-subsets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
@@ -463,6 +465,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -506,6 +509,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -520,6 +524,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
