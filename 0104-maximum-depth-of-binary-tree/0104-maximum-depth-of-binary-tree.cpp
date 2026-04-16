@@ -20,5 +20,6 @@ public:
         int rht = maxDepth(root->right);
 
         return 1 + max(lht, rht);
+        // height of tree.
     }
 };
