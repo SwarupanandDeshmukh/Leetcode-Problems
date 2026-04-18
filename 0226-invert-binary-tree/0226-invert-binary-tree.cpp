@@ -18,6 +18,7 @@ public:
 
         TreeNode* newRoot = new TreeNode(root->val);
 
+        //left to right and right to left.
         newRoot->left = invertTree(root->right);
         newRoot->right = invertTree(root->left);
 
