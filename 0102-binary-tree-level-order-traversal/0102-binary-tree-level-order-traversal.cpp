@@ -12,7 +12,8 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-
+        
+        // this is a level order traversal using queues and null inserts after a level completion.
         if(root == NULL)
             return {};
         vector<int> inner;
