@@ -36,6 +36,8 @@ public:
 
     vector<string> binaryTreePaths(TreeNode* root) {
         
+
+    // returning all the tree paths.
        vector<string> res;
        string s = "";
        if(root == NULL)
