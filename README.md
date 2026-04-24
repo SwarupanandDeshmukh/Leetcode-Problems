@@ -481,6 +481,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -531,6 +532,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -549,6 +551,7 @@
 | [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -561,4 +564,5 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
