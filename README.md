@@ -472,6 +472,7 @@
 | [0100-same-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -526,6 +527,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -553,6 +555,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -573,6 +576,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
