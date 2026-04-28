@@ -477,6 +477,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -535,6 +536,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -565,6 +567,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
