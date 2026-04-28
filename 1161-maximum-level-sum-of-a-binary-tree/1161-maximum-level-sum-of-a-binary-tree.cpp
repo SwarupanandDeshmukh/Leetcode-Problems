@@ -26,7 +26,7 @@ public:
             if(temp == NULL)
             {
                 res.push_back(sum);
-                sum = -0;
+                sum = 0;
                 if(q.empty())
                     break;
                 q.push(NULL);
