@@ -494,6 +494,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -558,6 +559,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -590,6 +592,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -610,6 +613,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
