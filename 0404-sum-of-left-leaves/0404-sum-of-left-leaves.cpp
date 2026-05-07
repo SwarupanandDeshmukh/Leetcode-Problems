@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-
+    
     struct Node
     {
         TreeNode *curr;
