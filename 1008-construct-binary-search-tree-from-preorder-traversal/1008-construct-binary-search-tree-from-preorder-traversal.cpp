@@ -12,37 +12,23 @@
 class Solution {
 public:
 
-    int searching(vector<int> &inorder, vector<int> preorder, int v, int l, int r)
+    TreeNode *helper(vector<int> &preorder, int &pidx, int bound)
     {
-        for(int i = l; i<=r; i++)
-        {
-            if(inorder[i] == v)
-                return i;
-        }
-        return -1;
-    }
-
-    TreeNode* helper(vector<int> &inorder, vector<int> &preorder, int &pidx, int l, int r)
-    {
-        if(l > r)
+        if(pidx == preorder.size() || preorder[pidx] > bound)
             return NULL;
 
         TreeNode *root = new TreeNode(preorder[pidx]);
         pidx++;
 
-        int i = searching(inorder, preorder, root->val, l,r);
-        root->left = helper(inorder, preorder, pidx, l, i-1);
-        root->right = helper(inorder, preorder, pidx, i+1, r);
-
+        root->left = helper(preorder, pidx, root->val);
+        root->right = helper(preorder, pidx, bound);
         return root;
-
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder = preorder;
-        sort(inorder.begin(), inorder.end());
 
         int pidx = 0;
-       return helper(inorder, preorder, pidx, 0, inorder.size()-1);
+        int i = INT_MAX;
+       return helper(preorder, pidx, i);
     }
 };
