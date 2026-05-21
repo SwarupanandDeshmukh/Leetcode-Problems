@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-
     TreeNode* insertIntoBST(TreeNode* root, int val) {
         
             TreeNode *temp = new TreeNode(val);
