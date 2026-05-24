@@ -55,6 +55,7 @@
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -245,6 +246,7 @@
 | [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
