@@ -1,7 +1,9 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-            
+        
+        // greedy method 
+        
        int n = bills.size();
         int five = 0, ten = 0;
        for(int i =0; i<n; i++)
