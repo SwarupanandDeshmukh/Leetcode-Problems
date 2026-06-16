@@ -694,6 +694,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [1791-find-center-of-star-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
