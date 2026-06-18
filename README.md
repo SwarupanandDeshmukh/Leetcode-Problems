@@ -526,6 +526,7 @@
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0938-range-sum-of-bst](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -668,6 +669,7 @@
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
@@ -691,11 +693,13 @@
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
