@@ -63,6 +63,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -339,6 +340,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -679,6 +681,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
