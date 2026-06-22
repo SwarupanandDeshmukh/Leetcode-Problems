@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0622-design-circular-queue) |
@@ -134,6 +135,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -344,6 +346,7 @@
 | [0200-number-of-islands](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -685,6 +688,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
