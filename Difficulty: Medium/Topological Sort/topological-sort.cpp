@@ -1,26 +1,18 @@
 class Solution {
   public:
     
-    void topoSort(int start, unordered_map<int, bool> &visited, stack<int> &s, unordered_map<int, list<int>> &adj)
-    {
-        visited[start] = true;
-        
-        for(const auto neigh: adj[start])
-        {
-            if(!visited[neigh])
-                topoSort(neigh, visited, s, adj);
-        }
-        
-        s.push(start); 
-        
-    }
+
     
     vector<int> topoSort(int V, vector<vector<int>>& edges) {
         // code here
         
         unordered_map<int, list<int>> adj;
-        unordered_map<int, bool> visited;
-        stack<int> s;
+        unordered_map<int, int> indegree;
+        
+        for(int i = 0; i<V; i++)
+        {
+            indegree[i] = 0;
+        }
         
         for(const auto edge: edges)
         {
@@ -28,20 +20,33 @@ class Solution {
             int v = edge[1];
             
             adj[u].push_back(v);
+            indegree[v]++;
         }
         
-        for(int i = 0; i<V; i++)
+        
+        queue<int> q;
+        
+        for(const auto pair: indegree)
         {
-            if(!visited[i])
-                topoSort(i, visited, s, adj);
+            if(pair.second == 0)
+                q.push(pair.first);
         }
-        
         
         vector<int> res;
-        while(!s.empty())
+        
+        while(!q.empty())
         {
-            res.push_back(s.top());
-            s.pop();
+            int curr = q.front();
+            q.pop();
+            
+            res.push_back(curr);
+            
+            for(const auto neigh: adj[curr])
+            {
+                indegree[neigh]--;
+                if(indegree[neigh] == 0)
+                    q.push(neigh);
+            }
         }
         
         return res;
