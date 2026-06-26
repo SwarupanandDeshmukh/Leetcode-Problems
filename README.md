@@ -139,6 +139,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -756,6 +757,7 @@
 | [0997-find-the-town-judge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -764,9 +766,11 @@
 | [0207-course-schedule](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
