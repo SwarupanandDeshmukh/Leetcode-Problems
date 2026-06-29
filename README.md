@@ -80,6 +80,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -221,6 +222,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
 |  |
