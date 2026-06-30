@@ -573,6 +573,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -731,6 +732,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -758,6 +760,7 @@
 | [0684-redundant-connection](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -774,6 +777,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
