@@ -594,6 +594,7 @@
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -754,6 +755,7 @@
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -783,6 +785,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -804,6 +807,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
