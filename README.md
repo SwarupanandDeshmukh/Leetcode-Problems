@@ -236,6 +236,7 @@
 | [0721-accounts-merge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -296,6 +297,7 @@
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -350,6 +352,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -366,6 +369,7 @@
 | [0901-online-stock-span](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
