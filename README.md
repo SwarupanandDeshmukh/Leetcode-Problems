@@ -34,6 +34,7 @@
 | [0130-surrounded-regions](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -275,6 +277,7 @@
 | [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -326,6 +329,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Stack
@@ -479,6 +483,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
