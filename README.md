@@ -76,6 +76,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -397,6 +398,7 @@
 | [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -408,6 +410,7 @@
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
