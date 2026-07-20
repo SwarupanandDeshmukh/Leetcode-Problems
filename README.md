@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -257,6 +258,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -283,6 +285,7 @@
 | [0217-contains-duplicate](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -388,6 +391,7 @@
 | [0200-number-of-islands](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -466,6 +470,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
