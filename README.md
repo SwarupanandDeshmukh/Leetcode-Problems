@@ -43,6 +43,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -207,6 +208,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -259,6 +261,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -271,6 +274,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
