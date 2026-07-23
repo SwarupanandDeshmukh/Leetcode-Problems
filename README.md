@@ -24,6 +24,7 @@
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -201,6 +202,7 @@
 | [0031-next-permutation](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -287,6 +289,7 @@
 | [0015-3sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0169-majority-element) |
