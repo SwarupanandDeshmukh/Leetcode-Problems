@@ -84,6 +84,7 @@
 | [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -416,6 +417,7 @@
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
