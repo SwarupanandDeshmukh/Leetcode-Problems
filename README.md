@@ -32,6 +32,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -163,6 +164,7 @@
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
