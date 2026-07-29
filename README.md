@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0078-subsets) |
@@ -113,6 +114,7 @@
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -428,6 +430,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0200-number-of-islands) |
