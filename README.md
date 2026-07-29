@@ -72,6 +72,7 @@
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -365,6 +366,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1732-find-the-highest-altitude](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
