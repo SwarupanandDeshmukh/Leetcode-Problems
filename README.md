@@ -107,6 +107,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2951-find-the-peaks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2951-find-the-peaks) |
+| [3731-find-missing-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -147,6 +148,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3941-password-strength) |
 ## Math
 |  |
@@ -346,6 +348,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
