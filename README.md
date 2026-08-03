@@ -78,6 +78,7 @@
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -196,6 +197,7 @@
 | [0509-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
