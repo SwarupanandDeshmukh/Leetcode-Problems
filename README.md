@@ -63,6 +63,7 @@
 | [0485-max-consecutive-ones](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -356,6 +357,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -559,6 +561,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
