@@ -312,6 +312,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3856-trim-trailing-vowels](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
