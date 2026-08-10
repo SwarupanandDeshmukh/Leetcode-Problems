@@ -87,6 +87,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -487,6 +488,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -503,6 +505,7 @@
 | [0412-fizz-buzz](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
