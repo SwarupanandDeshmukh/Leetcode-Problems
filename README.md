@@ -160,6 +160,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3941-password-strength) |
 ## Math
@@ -314,6 +315,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -409,6 +411,7 @@
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
