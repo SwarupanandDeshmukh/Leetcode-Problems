@@ -27,8 +27,6 @@ public:
             
         }
 
-        cout<<l << " " << r;
-
         return ans;
     }
 };
