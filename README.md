@@ -266,6 +266,7 @@
 | [0234-palindrome-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -296,6 +297,7 @@
 | [0242-valid-anagram](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0402-remove-k-digits) |
