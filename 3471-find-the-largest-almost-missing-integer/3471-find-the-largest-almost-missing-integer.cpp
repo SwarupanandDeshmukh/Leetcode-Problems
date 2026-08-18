@@ -3,45 +3,47 @@ public:
     int largestInteger(vector<int>& nums, int k) {
         
         int n = nums.size();
-        int l = 0, r = 0;
         unordered_map<int, int> m;
-        unordered_set<int> s;
 
-        if(n == 1)
-            return nums[0];
-
-        while(r < (n-k)+1)
+        for(int i : nums)
         {
-            int cnt = 0;
-            unordered_set<int> s;
+            m[i]++;
+        }
 
-            while(cnt < k)
+        if(k == n)
+        {
+            int maxi = 0;
+            for(int i = 0; i<n; i++)
             {
-               s.insert(nums[r]);
-
-                cnt++;
-                r++;
+                maxi = max(maxi, nums[i]);
             }
 
-            for(int i : s)
-                m[i]++;
+            return maxi;
+        }
+
+        if(k == 1)
+        {   
+            int maxi = -1;
+            for(auto pair: m)
+            {
+                if(pair.second == 1)
+                    maxi = max(maxi, pair.first);
+            }
+
+            return maxi;
+        }
+
+            if(m[nums[0]] == 1 && m[nums[n-1]] == 1)
+                return max(nums[0], nums[n-1]);
+
+           
+            if(m[nums[0]] == 1 && m[nums[n-1]] > 1)
+                return nums[0];
             
-            l++;
-            r = l;
-        }
+            if(m[nums[0]] > 1 && m[nums[n-1]] == 1)
+                return nums[n-1];
+            
+        return -1;
 
-        for(auto pair: m)
-        {
-            cout<< pair.first <<" " << pair.second << endl;
-        }
-
-        int maxi = -1;
-        for(auto pair: m)
-        {
-            if(pair.second == 1)
-                maxi = max(maxi, pair.first);
-        }
-
-        return maxi;
     }
 };
