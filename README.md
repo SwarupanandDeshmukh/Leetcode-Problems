@@ -172,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -205,6 +206,7 @@
 | [0042-trapping-rain-water](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1010,4 +1012,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
