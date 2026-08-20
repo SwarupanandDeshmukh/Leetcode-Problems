@@ -118,6 +118,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2951-find-the-peaks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2951-find-the-peaks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -529,6 +530,7 @@
 | [1920-build-array-from-permutation](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
