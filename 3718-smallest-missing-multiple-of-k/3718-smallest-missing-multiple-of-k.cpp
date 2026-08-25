@@ -2,11 +2,6 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
 
-        if(k == 1)
-        {
-
-        }
-
         int n = nums.size();
         unordered_map<int, int> divisors;
         for(int i = 0; i<n; i++)
