@@ -121,6 +121,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2951-find-the-peaks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -423,6 +424,7 @@
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |
