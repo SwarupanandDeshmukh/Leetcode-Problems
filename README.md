@@ -89,6 +89,7 @@
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0832-flipping-an-image](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -297,6 +298,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -379,6 +381,7 @@
 | [0338-counting-bits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
@@ -528,6 +531,7 @@
 | [0463-island-perimeter](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -547,6 +551,7 @@
 | [0412-fizz-buzz](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
