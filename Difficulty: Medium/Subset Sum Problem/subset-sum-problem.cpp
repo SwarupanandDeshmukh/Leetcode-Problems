@@ -1,31 +1,36 @@
 class Solution {
   public:
-    bool isSubsetSum(vector<int>& arr, int sum) {
-        // code here
+    
+    bool helper(int i, vector<int>& arr, int sum,  vector<vector<int>> &dp)
+    {
+        if(sum == 0)
+            return true;
         
-        int n = arr.size();
+        if(i == 0)
+            return (arr[0] == sum);
         
-        vector<vector<int>> dp(n+1, vector<int> (sum + 1, 0));
+        if(dp[i][sum] != -1)
+            return dp[i][sum];
         
-        for(int i = 1; i<=n; i++)
+        bool notpick = helper(i-1, arr, sum, dp);
+        bool pick = false;
+        
+        if(sum >= arr[i])
         {
-            for(int j = 1; j<=sum; j++)
-            {
-                if(arr[i-1] <= j)
-                {
-                    int take = arr[i-1] + dp[i-1][j - arr[i-1]];
-                    
-                    int notTake = dp[i-1][j];
-                    
-                    dp[i][j] = max(take, notTake);
-                }
-                else
-                    dp[i][j] = dp[i-1][j];
-            }
+            pick = helper(i-1,arr,  sum - arr[i], dp);
         }
         
-        return (dp[n][sum] == sum); 
+        return dp[i][sum] = pick || notpick;
         
+    }
+    
+    
+    bool isSubsetSum(vector<int>& arr, int sum) {
+        // code here
+        int n = arr.size();
         
+        vector<vector<int>> dp(n, vector<int>(sum+1, -1));
+        
+        return helper(n-1, arr, sum, dp);
     }
 };
