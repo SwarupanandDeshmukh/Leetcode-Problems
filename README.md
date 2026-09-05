@@ -64,6 +64,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -235,6 +236,7 @@
 | [0198-house-robber](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0542-01-matrix) |
@@ -1055,4 +1057,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0202-happy-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
