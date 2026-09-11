@@ -791,6 +791,7 @@
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Doubly-Linked List
 |  |
@@ -867,6 +868,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -909,6 +911,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
