@@ -357,6 +357,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3856-trim-trailing-vowels](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
@@ -576,6 +577,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
