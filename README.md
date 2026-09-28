@@ -1085,4 +1085,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
