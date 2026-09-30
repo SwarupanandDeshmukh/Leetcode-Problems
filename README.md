@@ -1080,6 +1080,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0202-happy-number) |
 ## Knapsack Problem
 |  |
