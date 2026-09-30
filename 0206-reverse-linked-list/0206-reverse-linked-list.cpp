@@ -10,35 +10,23 @@
  */
 class Solution {
 public:
-
-    void insert(ListNode * &res, int v)
-    {
-        ListNode *n = new ListNode(v);
-
-        if(res == NULL)
-        {
-            res = n;
-            res->next = NULL;
-            return;
-        }
-
-        n->next = res;
-        res = n;
-    }
     ListNode* reverseList(ListNode* head) {
         
         if(head == NULL)
-            return {};
-
-        ListNode *res = NULL;
-        ListNode *temp = head;
+            return NULL;
         
+        ListNode *prev = NULL;
+        ListNode *temp = head;
+        ListNode *next = NULL;
+
         while(temp != NULL)
         {
-            insert(res, temp->val);
-            temp = temp->next;
+            next = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = next;
         }
 
-        return res;
+        return prev;
     }
 };
