@@ -8,40 +8,42 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
 
-     void insert(ListNode * &res, int v)
-    {
-        ListNode *n = new ListNode(v);
+    ListNode* reverse(ListNode *newhead)
+    { 
+        ListNode *prev = NULL;
+        ListNode *temp = newhead;
+        ListNode *next = NULL;
 
-        if(res == NULL)
+        while(temp != NULL)
         {
-            res = n;
-            res->next = NULL;
-            return;
+            next = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = next;
         }
 
-        n->next = res;
-        res = n;
+        return prev;
     }
 
     bool isPalindrome(ListNode* head) {
-
-        if(head == NULL)
-            return {};
-
-        ListNode *res = NULL;
-        ListNode *temp = head;
         
-        while(temp != NULL)
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while(fast->next != NULL && fast->next->next != NULL)
         {
-            insert(res, temp->val);
-            temp = temp->next;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
+        ListNode* newHead = reverse(slow->next);
+
         ListNode *t1 = head;
-        ListNode *t2 = res;
+        ListNode *t2 = newHead;
 
         while(t1 != NULL && t2 != NULL)
         {
@@ -53,6 +55,8 @@ public:
 
         return true;
 
-        
+
+
+
     }
 };
