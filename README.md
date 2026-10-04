@@ -105,6 +105,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -428,6 +429,7 @@
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -674,6 +676,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
@@ -1099,4 +1102,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
