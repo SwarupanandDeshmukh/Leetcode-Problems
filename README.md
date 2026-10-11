@@ -126,6 +126,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1072,6 +1073,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
