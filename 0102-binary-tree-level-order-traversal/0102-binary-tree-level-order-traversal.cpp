@@ -13,26 +13,23 @@ class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         
-        // this is a level order traversal using queues and null inserts after a level completion.
         if(root == NULL)
             return {};
         vector<int> inner;
         vector<vector<int>> res;
-        queue<TreeNode *> q;
-
+        queue<TreeNode*> q;
         q.push(root);
         q.push(NULL);
 
         while(!q.empty())
         {
-            TreeNode *temp = q.front();
+            TreeNode* temp = q.front();
             q.pop();
 
             if(temp == NULL)
             {
                 res.push_back(inner);
                 inner.clear();
-
                 if(q.empty())
                     break;
                 q.push(NULL);
@@ -40,15 +37,14 @@ public:
             else
             {
                 inner.push_back(temp->val);
-
-                if(temp->left != NULL)
+                if(temp->left)
                     q.push(temp->left);
-
-                if(temp->right != NULL)
+                if(temp->right)
                     q.push(temp->right);
             }
         }
 
         return res;
+        
     }
 };
