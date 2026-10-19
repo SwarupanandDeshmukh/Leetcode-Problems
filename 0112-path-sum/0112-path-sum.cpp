@@ -10,50 +10,34 @@
  * };
  */
 class Solution {
+
+    
 public:
 
-    void helper(TreeNode* root, vector<int> inner, vector<vector<int>> &res)
+    bool helper(TreeNode* root, int targetSum, int sum)
     {
-        if(root == NULL)
-            return;
-        
-        inner.push_back(root->val);
-
-        if(!root->left && !root->right)
-        {
-            res.push_back(inner);
-        }
-        else
-        {
-            helper(root->left, inner, res);
-            helper(root->right, inner, res);
-        }
-        inner.pop_back();
-    }
-
-    bool hasPathSum(TreeNode* root, int targetSum) {
-
         if(root == NULL)
             return false;
         
-        vector<vector<int>> res;
-        vector<int> inner;
-        helper(root, inner, res);
+        sum += root->val;
 
-        int n = res.size();
-        for(int i = 0; i<n; i++)
-        {  
-            int sum = 0;
-            for(int v : res[i])
-            {
-                sum = sum + v;
-            }
-
-            if(sum == targetSum)
-                return true;
-
+        if(root->left == NULL && root->right == NULL)
+        {
+                if(sum == targetSum)
+                    return true;
         }
 
-        return false;
+        bool left = helper(root->left, targetSum, sum);
+        bool right = helper(root->right, targetSum, sum);
+
+        return left || right;
+
+    }
+
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        
+        int sum = 0;
+        return helper(root, targetSum, sum);
+        
     }
 };
