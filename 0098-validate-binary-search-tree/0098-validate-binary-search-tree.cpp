@@ -12,34 +12,29 @@
 class Solution {
 public:
 
-    void helper(TreeNode *root, vector<int> &res)
+    void inorder(TreeNode* root, vector<int> &res)
     {
         if(root == NULL)
             return;
         
-        helper(root->left, res);
+        inorder(root->left, res);
         res.push_back(root->val);
-        helper(root->right, res);
-
+        inorder(root->right, res);
     }
 
     bool isValidBST(TreeNode* root) {
         
         vector<int> res;
-        helper(root, res);
+        inorder(root, res);
 
         int n = res.size();
-        int i = 0;
-        int j = i+1;
-        bool f = true;
-        while(j<n)
+
+        for(int i = 0; i < n-1; i++)
         {
-            if(res[i] >= res[j])
-                f = false;
-            i++;
-            j++;
+            if(res[i] >= res[i+1])
+                return false;
         }
 
-        return f;
+        return true;
     }
 };
