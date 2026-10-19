@@ -1125,4 +1125,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
