@@ -11,67 +11,72 @@
  */
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* a, TreeNode* b) {
-        
+
+    TreeNode* lca(TreeNode* root, TreeNode* a, TreeNode* b)
+    {
         if(root == NULL)
             return NULL;
-
+        
         if(root == a || root == b)
             return root;
         
-        TreeNode* leftLCA = lowestCommonAncestor(root->left, a,b);
-        TreeNode* rightLCA = lowestCommonAncestor(root->right, a,b);
-            
-        if(leftLCA && rightLCA)
-            return root;
-        if(leftLCA != NULL)
-            return leftLCA;
+        TreeNode* left = lca(root->left, a, b);
+        TreeNode* right = lca(root->right, a, b);
+
+        if(left == NULL && right == NULL)
+            return NULL;
+        else if(left == NULL && right != NULL)
+            return right;
+        else if(left != NULL && right == NULL)
+            return left;
         else
-            return rightLCA;
+            return root;
     }
 
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
         
-            vector<TreeNode*> curr;
-            vector<TreeNode*> deepest;
-            queue<TreeNode*> q;
-            q.push(root);
-            q.push(NULL);
-            while(!q.empty())
+        vector<TreeNode*> curr;
+        vector<TreeNode*> deepest;
+        queue<TreeNode*> q;
+        q.push(root);
+        q.push(NULL);
+
+        while(!q.empty())
+        {
+            TreeNode* temp = q.front();
+            q.pop();
+
+            if(temp == NULL)
             {
-                TreeNode *temp = q.front();
-                q.pop();
-                
-                if(temp == NULL)
-                {
-                    if(!curr.empty())
-                        deepest = curr;
-                    curr.clear();
-                    if(q.empty())
-                        break;
-                    q.push(NULL);
-                }
-                else
-                {
-                    if(!temp->left && !temp->right)
-                        curr.push_back(temp);
-                    if(temp->left)
-                        q.push(temp->left);
-                    if(temp->right)
-                        q.push(temp->right);
-                }
+
+                if(!curr.empty())
+                    deepest = curr;
+                curr.clear();
+                if(q.empty())
+                    break;
+                q.push(NULL);
+            }   
+            else
+            {
+                curr.push_back(temp);
+                if(temp->left)
+                    q.push(temp->left);
+                if(temp->right)
+                    q.push(temp->right);
             }
+        }
 
         int n = deepest.size();
-        TreeNode *a = deepest[0];
+        TreeNode* a = deepest[0];
         TreeNode *b = deepest[n-1];
-        
+
         if(n > 1)
         {
-            TreeNode* lca = lowestCommonAncestor(root, a,b);
-            return lca;
+            return lca(root, a, b);
         }
-    
+
         return a;
+
+
     }
 };
