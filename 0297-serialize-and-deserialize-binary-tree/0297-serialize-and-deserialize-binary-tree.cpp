@@ -12,81 +12,81 @@ public:
 
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
+        
         if(root == NULL)
             return "";
+
         string s = "";
 
-        queue<TreeNode *> q;
+        queue<TreeNode*> q;
         q.push(root);
         while(!q.empty())
         {
-            TreeNode *temp = q.front();
+            TreeNode* temp = q.front();
             q.pop();
 
             if(temp == NULL)
             {
-                s += "N";
+               s += "#,";
+               continue;
             }
             else
             {
-                s += to_string(temp->val);
-                q.push(temp->left);
-                q.push(temp->right);
+                s = s + to_string(temp->val) + ",";
+                    q.push(temp->left);
+
+                    q.push(temp->right);
             }
-
-            s += ",";
-
         }
 
         s.pop_back();
-        cout<<s <<endl;
         return s;
     }
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
         
+        // 1,2,3,#,#,4,5,#,#,#,#
+
         if(data == "")
             return NULL;
         
         stringstream ss(data);
-        string parts;
-        vector<string> v;
-
-        while(getline(ss, parts, ','))
-        {
-            v.push_back(parts);
-        }
-
-        TreeNode* root = new TreeNode(stoi(v[0]));
-        int i = 1;
-        queue<TreeNode *> q;
+        string val;
+        queue<TreeNode*> q;
+        getline(ss, val, ',');
+        TreeNode* root = new TreeNode(stoi(val));
         q.push(root);
-        while(!q.empty() && i < v.size())
+
+        while(!q.empty())
         {
-            TreeNode *tmp = q.front();
+            TreeNode* temp = q.front();
             q.pop();
 
-            if(i < v.size() && v[i] != "N")
+            if(getline(ss, val, ','))
             {
-                TreeNode* leftNode = new TreeNode(stoi(v[i]));
-                tmp->left = leftNode;
-                q.push(leftNode);
+                if(val != "#")
+                {
+                    TreeNode* lchild = new TreeNode(stoi(val));
+                    temp->left = lchild;
+                    q.push(lchild);
+                }
             }
-            i++;
 
-            if(i < v.size() && v[i] != "N")
+            if(getline(ss, val, ','))
             {
-                TreeNode* rightNode = new TreeNode(stoi(v[i]));
-                tmp->right = rightNode;
-                q.push(rightNode);
+                if(val != "#")
+                {
+                    TreeNode* rchild = new TreeNode(stoi(val));
+                    temp->right = rchild;
+                    q.push(rchild);
+                }
             }
-            i++;
-
         }
 
         return root;
-        
+
+
     }
 };
 
