@@ -99,6 +99,7 @@
 | [0860-lemonade-change](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -395,6 +396,7 @@
 | [0704-binary-search](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
