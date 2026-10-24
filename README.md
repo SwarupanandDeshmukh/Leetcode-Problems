@@ -82,6 +82,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0721-accounts-merge) |
@@ -385,6 +386,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1631-path-with-minimum-effort](https://github.com/SwarupanandDeshmukh/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
