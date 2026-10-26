@@ -10,43 +10,32 @@
  */
 class Solution {
 public:
-
-    void insert(ListNode* &res, int v)
-    {
-        ListNode *n = new ListNode(v);
-        if(res == NULL)
-        {
-            res = n;
-            res->next = NULL;
-            return;
-        }
-
-        ListNode *temp = res;
-        while(temp->next != NULL)
-            temp = temp->next;
-        
-        temp->next = n;
-        temp = n;
-    }
     ListNode* deleteDuplicates(ListNode* head) {
-            if(head == NULL)
-                return {};
-            
-            vector<int> v;
-            ListNode *res = NULL;
-            ListNode *temp1 = head;
+        
+        if(head == NULL)
+            return NULL;
+        ListNode* prev = head;
+        ListNode* temp = prev->next;
 
-            while(temp1 != NULL)
+        while(temp != NULL)
+        {
+            if(temp->val == prev->val)
             {
-                if (!binary_search(v.begin(), v.end(), temp1->val))
-                {
-                    v.push_back(temp1->val);
-                    insert(res, temp1->val);
-                }
-                temp1 = temp1->next;
+                temp = temp->next;
+                continue;
             }
 
-            return res;
+            prev->next = temp;
+            prev = temp;
+            temp = temp->next;
+
+
+        }
+
+        prev->next = NULL;
+        return head;
+
+
 
     }
 };
